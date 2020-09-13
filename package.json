@@ -4,8 +4,6 @@
   "private": true,
   "dependencies": {
     "@firebase/app": "^0.6.11",
-    "firebase": "^7.20.0",
-    "material-components-web": "^7.0.0",
-    "scss": "^0.2.4"
+    "firebase": "^7.20.0"
   }
 }
